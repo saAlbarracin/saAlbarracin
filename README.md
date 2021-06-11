@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img style="width: 130px; height: 130px; border-radius: 65px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHARHajyO5W6Q/profile-displayphoto-shrink_800_800/0/1614033309435?e=1628726400&v=beta&t=bZx418G78aj1rKkZQBLbup1bxJQm-DDObSqwj7MBsVE">
+    <img src="https://i.postimg.cc/SQ7B8X1H/1614033309435-1.jpg">
     <div>
         <br>
         Soy desarrollador Full-Stack de Argentina
