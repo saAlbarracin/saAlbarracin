@@ -8,7 +8,7 @@
         <br>
         Soy desarrollador Full-Stack de Argentina
         <br> Actualmente me encuentro en búsqueda de trabajo
-        <br> Estoy finalizando Abogacia y comenzaré Ingeniería
+        <br> Me interesa especializarme aún mas en el backend
     </div>
 </div>
 
