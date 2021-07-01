@@ -7,8 +7,8 @@
     <div>
         <br>
         Soy desarrollador Full-Stack NodeJs de Argentina
-        <br> Actualmente me encuentro en búsqueda de mi primera experiencia IT, mi objetivo es insertarme en una empresa, que me permita ser parte de un equipo de trabajo, en donde podamos potenciar el aprendisaje tanto grupal como individual. Y sobre todo construir juntos grandes proyectos.
-        <br> Me interesa especializarme en el BackEnd.
+        Actualmente me encuentro en búsqueda de mi primera experiencia IT, mi objetivo es insertarme en una empresa, que me permita ser parte de un equipo de trabajo, en donde podamos potenciar el aprendizaje tanto grupal como individual. Y sobre todo construir juntos grandes proyectos.
+        Me interesa especializarme en el BackEnd.
     </div>
 </div>
 
