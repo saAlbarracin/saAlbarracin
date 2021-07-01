@@ -6,9 +6,9 @@
     <img src="https://i.postimg.cc/SQ7B8X1H/1614033309435-1.jpg">
     <div>
         <br>
-        Soy desarrollador Full-Stack de Argentina
-        <br> Actualmente me encuentro en búsqueda de trabajo
-        <br> Me interesa especializarme aún mas en el backend
+        Soy desarrollador Full-Stack NodeJs de Argentina
+        <br> Actualmente me encuentro en búsqueda de mi primera experiencia IT, mi objetivo es insertarme en una empresa, que me permita ser parte de un equipo de trabajo, en donde podamos potenciar el aprendisaje tanto grupal como individual. Y sobre todo construir juntos grandes proyectos.
+        <br> Me interesa especializarme en el BackEnd.
     </div>
 </div>
 
