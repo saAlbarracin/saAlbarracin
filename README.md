@@ -6,7 +6,7 @@
     <img src="https://i.postimg.cc/SQ7B8X1H/1614033309435-1.jpg">
     <div>
         <br>
-        Soy desarrollador Full-Stack NodeJs de Argentina
+        Soy desarrollador Full-Stack NodeJs de Argentina.
         Actualmente me encuentro en búsqueda de mi primera experiencia IT, mi objetivo es insertarme en una empresa, que me permita ser parte de un equipo de trabajo, en donde podamos potenciar el aprendizaje tanto grupal como individual. Y sobre todo construir juntos grandes proyectos.
         Me interesa especializarme en el BackEnd.
     </div>
