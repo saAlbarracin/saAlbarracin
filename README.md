@@ -18,7 +18,8 @@
         <img src=https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg width="40" height="40">   
         <img src=https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg width="40" height="40">   
         <img src=https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg width="40" height="40">   
-        <img src=https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg width="40" height="40">   
+        <img src=https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg width="40" height="40">  
+        <img src=https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg width="40" height="40">  
         
 <br>
         <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>   <a href="https://www.java.com/es/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png" alt="java" width="50" height="50"/> </a>  <a href="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" </a> </p>
