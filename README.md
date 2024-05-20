@@ -6,7 +6,7 @@
     <img src="https://i.postimg.cc/SQ7B8X1H/1614033309435-1.jpg">
     <div>
         <br>
-        Soy un Data Architect, con experiencia en ingenieria de datos, Abogado ,estudiante de Ingenieria en sistemas y Licenciatura en Analisis y gestion de Datos de Argentina.
+        Soy un Data Architect, con experiencia en ingenieria de datos,Abogado ,estudiante de Ingenieria en sistemas y Licenciatura en Analisis y gestion de Datos de Argentina.
         Mi objetivo es poder crecer en el mundo de la ciencia de datos, desempeñarme en una empresa en donde podamos potenciar el aprendizaje tanto grupal como individual. Y sobre todo construir juntos grandes proyectos.
     </div>
 </div>
